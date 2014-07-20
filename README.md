@@ -1,4 +1,4 @@
-mastercard-peru-woocommerce
+Mastercard Peru Woocommerce
 ===========================
 
 Gateway plugin for Woocommerce
